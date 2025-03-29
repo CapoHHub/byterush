@@ -50,6 +50,6 @@ Carbonico è un'applicazione web interattiva progettata per sensibilizzare gli u
    cd carbonico
 2. **BUILDA IL DOCKER**:
    ```bash
-   docker build compose
+   docker compose build
    docker compose up
 
